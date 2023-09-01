@@ -1,2 +1,4 @@
-print("hola mundo !")
-print("_El doberman-" * 4)
+"""Introduccion a python."""
+
+print(" Hola MUndo !\n")
+print("El veta "*4)
