@@ -1,0 +1,9 @@
+edad = 21
+
+mensaje = 3 if edad > 17 else 4
+# if edad > 17:
+#     mensaje = 'Es mayor'
+# else:
+#     mensaje = 'Es menor♥'
+
+print(mensaje)
