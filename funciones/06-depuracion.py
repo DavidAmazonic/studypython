@@ -1,6 +1,6 @@
 def largo(texto):
     result = 0
-    for char in texto:
+    for _ in texto:
         result += 1
     return result
 
