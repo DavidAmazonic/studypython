@@ -1,6 +1,16 @@
+saludo = "Hola globar"
+
+
 def saludar():
-    print("Hola mundo")
+    saludo = "Hola Mundo"
+    print(saludo)
 
 
 def sadaCha():
-    saludo = saludar()
+    saludo = "Hola Chanchito"
+    print(saludo)
+
+
+saludar()
+sadaCha()
+print(saludo)
